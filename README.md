@@ -3,4 +3,4 @@ watching Avatar: The Last Airbender for the first time, and reviewing every epis
 
 ## Episodes Tier List
 
-![[tier-list.png]]
+![Episodes Tier List](tier-list.png "Episodes Tier List")
